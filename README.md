@@ -1,1 +1,1 @@
-ssm framework
+Basic SSM Framework
